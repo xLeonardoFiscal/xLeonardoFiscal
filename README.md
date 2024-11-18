@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hola, soy LeonardoFiscal, un gusto!
+-👤 18 años 👤<br>
+-🇲🇽 Orgullosamente Mexicano 🇲🇽 <br>
+-🌐 Español e Ingles de bajo nivel 🌐 <br>
+-📚    Estudiante de Ing. en Tic's.    📚 <br>
+-🧠  Ganas de Aprender  🧠 <br>
+-📈  Ganas de Mejorar  📈 <br>
+-🥇  Hambre de Cumplir Sueños  🥇 <br>
+-💆‍♂️  Disciplinado, Lider, Creativo, Dedicado, Responsable, Yo.  💆‍♂️
 
 <!--
 **xLeonardoFiscal/xLeonardoFiscal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
